@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">AndroidHelloWorld</string>
-    <string name="hello_world">Hello world_hoge_20130117!</string>
+    <string name="hello_world">Hello world_hoge_20130118!</string>
     <string name="menu_settings">Settings</string>
 
 </resources>
